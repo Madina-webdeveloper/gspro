@@ -1,0 +1,10 @@
+.delivery_box{
+    display: flex;
+    align-items: center;
+    gap: 50px;
+}
+
+.delivery{
+    padding-top: 150px;
+}
+
